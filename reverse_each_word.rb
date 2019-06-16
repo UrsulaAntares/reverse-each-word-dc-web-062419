@@ -11,7 +11,7 @@ end
 #reverse_each_word("Hey how's it going")
 
 
-def reverse_each_word(string)
+#def reverse_each_word(string)
   array = string.split " "
   
 end
